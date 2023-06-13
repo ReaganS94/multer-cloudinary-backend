@@ -142,10 +142,10 @@ To get the cloud_name, api_key and secret, let's create a cloudinary account (ht
 
 Your `.env` file should look like this by now:
 
-MONGO_URI =
-CLOUD_NAME =
-API_KEY =
-API_SECRET =
+MONGO_URI = <br/>
+CLOUD_NAME = <br/>
+API_KEY = <br/>
+API_SECRET = <br/>
 
 Create a `routes` folder and, inside the folder, a file called `appRoutes.js`. Here's the code:
 
